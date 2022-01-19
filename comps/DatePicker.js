@@ -10,7 +10,7 @@ export default function Card({ date, setDate, search, setSearch }) {
       <Row>
         <Nasa />
         <Logo>
-          <Head>APOD Gallery</Head>
+          <Head>Spacestagram</Head>
           <Sub>
             Brought to you by NASA's <br></br> Astronomy Photo of the Day API
           </Sub>
